@@ -1,12 +1,11 @@
 # 🛍️ Customer Shopping Behavior Analysis
 
+
 ## 📊 Dashboard Preview
 
-
 <p align="center">
-  <img src="images/dashboard.png" alt="Customer Shopping Dashboard" width="850"/>
+  <img src="Customer-Shopping-Behavior-Analysis jpg.png" width="850"/>
 </p>
----
 
 ## 📌 Project Overview
 
